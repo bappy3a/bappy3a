@@ -1,31 +1,33 @@
-### Hi there 👋, I'm Ahmed Bappy
-#### Full Stack Laravel & Vue Js Developer
-![Full Stack Laravel & Vue Js Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-9/83380017_2413567865562792_3035497909161295872_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=19026a&_nc_ohc=F_S77SSIFSgAX8oBtES&tn=ZihsCtEMrZH4A_PA&_nc_ht=scontent.fdac5-2.fna&oh=89ec424738e6ae6158c92285d8ea90f7&oe=614CBC95)
+![I am Full Stack Laravel & Vue Js Developer](https://pbs.twimg.com/profile_banners/3240730764/1584786016/1500x500)
+## Hi, I'm Ahmed Bappy 👋
+<p>
+👑 I am  Full Stack Web Developer <br> 
+🖊️ Love to write code <br> 
+🎤 Like to share my knowledge </p> 
+
+![Profile views](https://gpvc.arturio.dev/bappy3a) 
 
 I’m a Full Stack  Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Laravel but some technologies I enjoy working with include VueJS, JavaScript as well as PHP.AWS
 
-Skills: LARAVEL / PHP / AWS / VUE JS  / JS / HTML / CSS
+## 👨‍💻 Skills & Experiance: 
+✅ Laravel <br> 
+✅ Lumen <br> 
+✅ VueJs <br> 
+✅ Python<br>
+✅ AWS<br>
+✅ JavaScript <br>
+✅ PHP <br>
+✅ WordPress <br> 
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ Photoshop / Illustrator <br>
 
-- 🔭 I’m currently working on Passport Management System 
-- 🌱 I’m currently learning python 
-- 👯 I’m looking to collaborate on github  
-- 💬 Ask me about Laravel and VueJs 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bappy3a&layout=compact)
+
+## ☕ Connect with me!
+[<img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt='facebook' height='40'>](https://www.facebook.com/bappy3a)  [<img src='https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465' alt='instagram' height='40'>](https://www.instagram.com/bappy3a/)  [<img src='https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465' alt='twitter' height='40'>](https://twitter.com/bappy3a)  [<img src='https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465' alt='github' height='40'>](https://github.com/bappy3a)  [<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://www.linkedin.com/in/bappy3a/)  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bappy3a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](bappy3a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bappy3a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bappy3a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bappy3a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bappy3a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/bappy3a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/bappy3a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bringoit.com)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bappy3a&show_icons=true) 
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bappy3a)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bappy3a)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bappy3a&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bappy3a)  
-
-![GitHub metrics](https://metrics.lecoq.io/bappy3a)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bappy3a)  
-
-![Profile views](https://gpvc.arturio.dev/bappy3a)  
+## 📧 For Business Inquiries 
+✅  ► bappy3a@gmail.com
