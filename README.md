@@ -1,6 +1,6 @@
 ![Aditya Vikram Singh Banner](https://pbs.twimg.com/profile_banners/3240730764/1584786016/1500x500)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width='40' align="left"/><h2>Hey there! I'm Ahmed Bappy</h2>
+<img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"><h2> Hey there! I'm Ahmed Bappy</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Ahmed Bappy -->
 
@@ -42,6 +42,10 @@ I’m a Full Stack  Web developer who is passionate about making error-free webs
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bappy3a&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<div align = "center">
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=bappy3a&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
+</div>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
