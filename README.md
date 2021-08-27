@@ -54,7 +54,7 @@ I’m a Full Stack  Web developer who is passionate about making error-free webs
 <a href="https://linkedin.com/in/bappy3a"><img src="https://img.shields.io/badge/-Ahmed%20Bappy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:bappy3a@gmail.com"><img src="https://img.shields.io/badge/-bappy3a@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/bappy3a"><img src="https://img.shields.io/badge/-@bappy3a-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVSbappy3a1508"><img src="https://img.shields.io/badge/-@bappy3a-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/bappy3a"><img src="https://img.shields.io/badge/-@bappy3a-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.ca/bappy3a"><img src="https://img.shields.io/badge/-@bappy3a-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/bappy3a"><img src="https://img.shields.io/badge/-@bappy3a-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
