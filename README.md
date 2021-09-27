@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://pbs.twimg.com/profile_banners/3240730764/1584786016/1500x500)
+![Aditya Vikram Singh Banner]
 
 <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"><h2> Hey there! I'm Ahmed Bappy</h2>
 
